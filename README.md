@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## Name:Kathiresan K
+## Reg no:212223110021
 ## AIM
 ## ALGORITHM:
 1. Start the program.
